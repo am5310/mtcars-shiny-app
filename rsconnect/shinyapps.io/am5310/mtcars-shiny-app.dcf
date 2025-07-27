@@ -1,0 +1,10 @@
+name: mtcars-shiny-app
+title:
+username: am5310
+account: am5310
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15129303
+bundleId: 10683448
+url: https://am5310.shinyapps.io/mtcars-shiny-app/
+version: 1

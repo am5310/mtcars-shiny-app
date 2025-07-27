@@ -1,6 +1,7 @@
 library(ggplot2)
 library(shiny)
 library(dplyr)
+library(rsconnect)
 
 ui <- fluidPage(
   titlePanel("mtcars Explorer"),
